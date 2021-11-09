@@ -1,0 +1,49 @@
+
+
+ th, td {
+
+    text-align: center;
+     color: dimgray;
+     
+         }
+h1 {
+    text-align:center;
+    color: darkslategray;
+    margin-top: auto;
+}
+
+p {
+    text-align: center;
+    color: darkslategray;
+    margin-top: auto;
+}
+
+p1 {
+    text-align: center;
+}
+table{ 
+        margin-left: auto;
+    margin-right: auto;
+     margin-bottom: auto;
+
+   
+align-content: center;
+    background-image: linear-gradient(white,#ECF0F1);
+    
+}
+
+
+
+p{
+    color: dimgray;
+}
+
+
+body{
+		background: url(https://image.freepik.com/free-vector/abstract-minimal-white-background_23-2148887988.jpg);
+		background-size: 120vw 120vh;
+		background-repeat: no-repeat;
+	}
+
+
+
